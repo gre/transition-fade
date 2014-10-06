@@ -1,0 +1,34 @@
+{
+  "name": "transition-fade",
+  "version": "0.0.0",
+  "description": "Provide a simple fade transition for WebGL, Canvas and DOM!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gre/transition-fade"
+  },
+  "keywords": [
+    "fade",
+    "transition",
+    "glsl-transition",
+    "zanimo",
+    "canvas",
+    "webgl",
+    "animation"
+  ],
+  "author": "Gaëtan Renaudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gre/transition-fade/issues"
+  },
+  "homepage": "https://github.com/gre/transition-fade",
+  "dependencies": {
+    "glsl-transition": "^0.6.6",
+    "performance-now": "^0.2.0",
+    "raf": "^2.0.4",
+    "zanimo": "^1.1.2"
+  }
+}
