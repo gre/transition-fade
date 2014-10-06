@@ -1,6 +1,6 @@
 {
   "name": "transition-fade",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provide a simple fade transition for WebGL, Canvas and DOM!",
   "main": "index.js",
   "scripts": {
