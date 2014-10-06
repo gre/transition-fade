@@ -1,11 +1,8 @@
 {
   "name": "transition-fade",
   "version": "0.0.1",
-  "description": "Provide a simple fade transition for WebGL, Canvas and DOM!",
+  "description": "a simple fade transition for WebGL, Canvas and DOM!",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gre/transition-fade"
